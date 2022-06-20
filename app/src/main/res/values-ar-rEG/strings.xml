@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"حساب عمرك "</string>
+    <string name="calculate" translatable="false">احسب</string>
+    <string name="enter_your_date_of_birth" translatable="false">"ادخل تاريخ ميلادك "</string>
+    <string name="your_age" translatable="false">"عمرك هو "</string>
+</resources>
